@@ -7,7 +7,7 @@ print("Welcome!")
 print("\n--- STUDENT INFORMATION ---")
 
 # ===== STUDENT 1: STUDENT NAME =====
-print("Student Name: Not completed")
+print("Student Name: Lenny")
 
 # ----------------------------------------
 
