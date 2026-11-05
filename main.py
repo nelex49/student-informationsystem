@@ -7,17 +7,17 @@ print("Welcome!")
 print("\n--- STUDENT INFORMATION ---")
 
 # ===== STUDENT 1: STUDENT NAME =====
-print("Student Name: Lenny Nelson")
+print("Student Name: Not completed")
 
 # ----------------------------------------
 
 # ===== STUDENT 2: STUDENT ID =====
-print("Student ID: BA123456")
+print("Student ID: Not completed")
 
 # ----------------------------------------
 
 # ===== STUDENT 3: STUDENT ADDRESS =====
-print("Student Address: 10 Hope Street")
+print("Student Address: Not completed")
 
 # ----------------------------------------
 
