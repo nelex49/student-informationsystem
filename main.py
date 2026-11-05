@@ -12,7 +12,7 @@ print("Student Name: Not completed")
 # ----------------------------------------
 
 # ===== STUDENT 2: STUDENT ID =====
-print("Student ID: Not completed")
+print("Student ID: CCC666")
 
 # ----------------------------------------
 
