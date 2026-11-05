@@ -17,7 +17,7 @@ print("Student ID: BA123456")
 # ----------------------------------------
 
 # ===== STUDENT 3: STUDENT ADDRESS =====
-print("Student Address: Not completed")
+print("Student Address: 10 Hope Street")
 
 # ----------------------------------------
 
