@@ -39,7 +39,7 @@ print("Module 1: Network Security")
 # ----------------------------------------
 
 # ===== STUDENT 7: MODULE 2 =====
-print("Module 2: Not completed")
+print("Module 2: Python Programming")
 
 # ----------------------------------------
 
