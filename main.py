@@ -34,7 +34,7 @@ print("Course Name: Not completed")
 # ----------------------------------------
 
 # ===== STUDENT 6: MODULE 1 =====
-print("Module 1: Not completed")
+print("Module 1: Network Security")
 
 # ----------------------------------------
 
