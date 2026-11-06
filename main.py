@@ -22,7 +22,7 @@ print("Student Address: 12 College Road, Glasgow")
 # ----------------------------------------
 
 # ===== STUDENT 4: STUDENT EMAIL =====
-print("Student Email: Not completed")
+print("Student Email: alex.morgan@example.com")
 
 # ----------------------------------------
 
