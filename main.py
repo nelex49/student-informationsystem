@@ -29,7 +29,7 @@ print("Student Email: Not completed")
 print("\n--- COURSE RECORDS ---")
 
 # ===== STUDENT 5: COURSE NAME =====
-print("Course Name: Not completed")
+print("Course Name: HNC Cyber Security")
 
 # ----------------------------------------
 
